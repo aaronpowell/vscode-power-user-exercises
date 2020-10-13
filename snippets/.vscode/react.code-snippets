@@ -1,0 +1,17 @@
+{
+  "React create stateless component": {
+    "prefix": "react-fc",
+    "scope": "javascript",
+    "body": [
+      "import React from \"react\";",
+      "",
+      "const ${1:MyComponent} = () => (",
+      "  <div></div>",
+      ");",
+      "",
+      "export default $1;",
+      ""
+    ],
+    "description": ""
+  }
+}
