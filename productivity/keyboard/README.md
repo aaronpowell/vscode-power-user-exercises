@@ -16,6 +16,7 @@ _Note: This is written for Windows keyboard, but on a Mac, generally replace `CT
 - Side bar open/close: `CTRL + B`
 - Keybindings reference: `CTRL + K, CTRL + R`
 - Move lines: `ALT + up/down`
+- Scroll window: `CTRL + up/down`
 - Go to reference: `F12`
 - Markdown preview: `CTRL + K, V`
 
