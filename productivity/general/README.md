@@ -88,3 +88,11 @@ Enable/disable line numbers, make them staggered, or make them relative.
 ## Creating Files and Folders
 
 When you create a new file via the explore, you can also create a folder by adding the folder path to it, separated by a `/`, eg: `/src/index.js`.
+
+## Default file language
+
+Set the language for new files when they are created.
+
+```json
+    "file.defaultLanguage": "${activeEditorLanguage}"
+```
